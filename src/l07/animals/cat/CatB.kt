@@ -1,6 +1,6 @@
 package l07.animals.cat
 
-class CatB {
+class CatB : Cat() {
     fun f1() {
         println("CatB.f1")
     }
